@@ -1,4 +1,3 @@
-// ReservationsManager (admin): approve or cancel table and event bookings.
 import { useApp } from '../../context/AppContext.jsx';
 
 export default function ReservationsManager() {

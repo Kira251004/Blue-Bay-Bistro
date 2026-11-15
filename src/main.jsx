@@ -1,4 +1,3 @@
-// main.jsx: the first file that runs. It puts our <App /> on the page.
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';

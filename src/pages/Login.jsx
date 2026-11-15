@@ -1,4 +1,3 @@
-// Login page: a controlled form that checks the email and password.
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useApp } from '../context/AppContext.jsx';

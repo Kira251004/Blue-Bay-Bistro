@@ -1,4 +1,3 @@
-// My Orders: the logged-in customer's orders and their status.
 import { useLocation } from 'react-router-dom';
 import { useApp } from '../context/AppContext.jsx';
 

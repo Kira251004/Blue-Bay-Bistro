@@ -1,4 +1,3 @@
-// App.jsx: the layout (navbar on top) + which page to show for each URL.
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { useApp } from './context/AppContext.jsx';
 import Navbar from './components/Navbar.jsx';

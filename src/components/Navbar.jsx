@@ -1,4 +1,3 @@
-// Navbar: the links at the top. They change depending on who is logged in.
 import { useState } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { useApp } from '../context/AppContext.jsx';

@@ -1,4 +1,3 @@
-// Menu page: filter the dishes by category, search, dietary need and price.
 import { useState } from 'react';
 import { useApp } from '../context/AppContext.jsx';
 import MenuCard from '../components/MenuCard.jsx';

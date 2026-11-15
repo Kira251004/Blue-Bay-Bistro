@@ -1,5 +1,3 @@
-// MenuManager (admin): add, edit and delete dishes, and mark them sold out.
-// This is CRUD: Create, Read, Update, Delete.
 import { useState } from 'react';
 import { useApp } from '../../context/AppContext.jsx';
 

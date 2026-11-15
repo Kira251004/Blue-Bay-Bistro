@@ -1,4 +1,3 @@
-// Stats (admin): simple analytics worked out from the orders.
 import { useApp } from '../../context/AppContext.jsx';
 
 export default function Stats() {

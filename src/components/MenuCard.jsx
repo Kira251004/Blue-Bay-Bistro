@@ -1,5 +1,3 @@
-// MenuCard: shows ONE dish. The parent gives it the dish (item) and
-// a function to run when "Add to cart" is clicked (onAdd). These are "props".
 export default function MenuCard({ item, onAdd }) {
   return (
     <div className={item.available ? 'menu-card' : 'menu-card unavailable'}>

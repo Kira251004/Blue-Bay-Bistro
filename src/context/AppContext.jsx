@@ -1,5 +1,3 @@
-// AppContext: data that MANY pages need (user, menu, cart, orders, reservations).
-// Instead of passing it through props, any component can read it with useApp().
 import { createContext, useContext, useState } from 'react';
 import menuData from '../data/menu.js';
 

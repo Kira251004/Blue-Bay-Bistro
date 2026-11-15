@@ -1,5 +1,3 @@
-// ChatBot: a simulated AI assistant. It looks for keywords from our
-// dataset (aiData.js) inside the customer's question and replies with that answer.
 import { useEffect, useRef, useState } from 'react';
 import aiData from '../data/aiData.js';
 

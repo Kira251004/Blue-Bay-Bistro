@@ -1,4 +1,3 @@
-// OrdersManager (admin): see every order and change its status.
 import { useApp } from '../../context/AppContext.jsx';
 
 const STATUSES = ['Pending', 'Preparing', 'Ready', 'Delivered', 'Cancelled'];

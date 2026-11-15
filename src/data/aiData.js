@@ -1,5 +1,3 @@
-// The AI dataset: each entry has the keywords to look for and the answer to give.
-// The first 6 are the exact questions and answers from the assignment.
 const aiData = [
   { question: "What are today's specials?", keywords: ['special'], answer: "Today's special is Chicken Alfredo for $18.99." },
   { question: 'What vegetarian meals do you have?', keywords: ['vegetarian', 'vegan', 'veggie'], answer: 'We offer Vegetable Pasta, Margherita Pizza, and Garden Salad.' },

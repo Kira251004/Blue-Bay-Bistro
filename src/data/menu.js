@@ -1,4 +1,3 @@
-// Our menu: a list (array) of dishes. Each dish is an object.
 const menu = [
   // Starters
   { id: 1, name: 'Garden Salad', category: 'Starters', price: 9.99, emoji: '🥗', description: 'Fresh greens, tomato and cucumber with lemon dressing.', ingredients: ['lettuce', 'tomato', 'cucumber', 'lemon'], dietary: ['vegetarian', 'vegan', 'gluten-free'], available: true, isSpecial: false },

@@ -1,4 +1,3 @@
-// Admin dashboard: tabs to switch between the admin tools.
 import { useState } from 'react';
 import MenuManager from '../components/admin/MenuManager.jsx';
 import OrdersManager from '../components/admin/OrdersManager.jsx';

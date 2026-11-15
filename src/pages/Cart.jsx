@@ -1,4 +1,3 @@
-// Cart page: the items in the cart + a checkout form (pickup or delivery).
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useApp } from '../context/AppContext.jsx';

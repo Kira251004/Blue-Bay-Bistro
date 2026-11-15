@@ -1,5 +1,3 @@
-// Reservations: book a table or a special event, with validation
-// and double-booking checks. Customers can also cancel their bookings.
 import { useState } from 'react';
 import { useApp } from '../context/AppContext.jsx';
 
